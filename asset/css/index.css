@@ -1,0 +1,22 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+    background-color: darkgrey;
+
+    color: white;
+    /* background: url('http://www.alstercloud.de/wp-content/uploads/2017/01/header.jpg') no-repeat;*/
+    background: url('../img/bg_home.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80%;
+}
+
+.row {
+    padding-top: 10%;
+}
+
+h1 {
+    font-weight:900;
+    font-size:2.3em;
+    text-transform:uppercase;
+}
+
