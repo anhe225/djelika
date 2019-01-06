@@ -7,11 +7,11 @@ body {
     background: url('../img/bg_home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
-    height: 80%;
+    height: 100vh;
 }
 
 .row {
-    padding-top: 10%;
+    padding-top: 10vh;
 }
 
 h1 {
