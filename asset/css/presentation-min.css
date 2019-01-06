@@ -8,6 +8,13 @@
         margin: 0;
         padding: 0;
     }
+    
+    .title
+{
+    color: white;
+      background: tomato;
+      padding: 5px 20px;
+}
     .sharer {
         display: flex;
         position: relative;
@@ -66,5 +73,12 @@
     }
     #about {
         height: 100%;
+        width: 100vw;
+    }
+    
+    #imgAffiliation
+    {
+        width: 100vw;
+        height: 100vh;
     }
 }
